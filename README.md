@@ -1,4 +1,4 @@
-# Notes-Api Backend
+# Bookshelf-Api Backend
 The Bookshelf API backend is a learning project focused on backend development with node.js and Hapi Framework.\
 It is part of a collaboration with Dicoding Indonesia as a submission for course completion in Dicoding, within the ID Camp 2024 event.
 
